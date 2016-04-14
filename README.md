@@ -3,7 +3,7 @@ This is a small patch to Metacity, the window manager for the Gnome
 multi-desktop to "wrap around" from the last desktop to the first, or
 vice versa.
 
-This feature is available on the Motif multi-desktop window manager,
-so it's been around since 1997 or so.  Why modern desktops don't
-support this is beyond me, but as a developer with a fondness for
-keyboard solutions, it's a must-have.
+This feature can now be enabled automatically in the modern Mate' 
+desktops, so this code is no longer needed.
+
+
